@@ -48,7 +48,7 @@ a {
 }
 
 a:hover {
-  color: #ff007a;
+  color: #4125dd;
 }
 
 a,
@@ -111,7 +111,7 @@ p {
 }
 
 .text-primary {
-  color: #ff007a !important;
+  color: #4125dd !important;
 }
 
 .subtitle {
@@ -168,7 +168,7 @@ Common
 .form-control:hover,
 .form-control:active {
   box-shadow: none;
-  border-color: #ff007a;
+  border-color: #4125dd;
 }
 
 .bg-secondary {
@@ -176,7 +176,7 @@ Common
 }
 
 .bg-primary {
-  background: #ff007a !important;
+  background: #4125dd !important;
 }
 
 .content-padding {
@@ -203,9 +203,9 @@ Common
 }
 
 .btn-hero {
-  background: #ff007a;
+  background: #4125dd;
   color: #ffffff;
-  border-color: #ff007a;
+  border-color: #4125dd;
 }
 
 .btn-hero:hover {
@@ -241,7 +241,7 @@ Common
 }
 
 .text-color {
-  color: #ff007a;
+  color: #4125dd;
 }
 
 .text-md {
@@ -266,7 +266,7 @@ a {
 }
 
 .title strong {
-  color: #ff007a;
+  color: #4125dd;
 }
 
 /*-------------------------------
@@ -321,9 +321,9 @@ header
 }
 
 .dropdown-item:hover {
-  color: #ff007a;
+  color: #4125dd;
   background: transparent;
-  border-left: 3px solid #ff007a;
+  border-left: 3px solid #4125dd;
 }
 
 .dropdown-menu {
@@ -453,7 +453,7 @@ banner
 .divider {
   width: 120px;
   height: 6px;
-  background: #ff007a;
+  background: #4125dd;
   display: block;
 }
 
@@ -688,7 +688,7 @@ Features
   top: 20px;
   width: 100px;
   height: 3px;
-  background: #ff007a;
+  background: #4125dd;
 }
 
 .bg-red {
@@ -859,7 +859,7 @@ Team
 }
 
 .speaker-block .speaker-social li a:hover {
-  background: #ff007a;
+  background: #4125dd;
 }
 
 @media (max-width: 767px) {
@@ -896,7 +896,7 @@ Team
   font-size: 40px;
   display: inline-block;
   margin-bottom: 15px;
-  color: #ff007a;
+  color: #4125dd;
 }
 
 /*-------------------------------
@@ -918,7 +918,7 @@ Schedule
 }
 
 .nav-pills .nav-link.active {
-  background: #ff007a;
+  background: #4125dd;
   border-radius: 8px;
   position: relative;
 }
@@ -946,7 +946,7 @@ Schedule
   left: 80px;
   margin: auto;
   z-index: -1;
-  border-color: #ff007a transparent transparent;
+  border-color: #4125dd transparent transparent;
 }
 
 .time-table .time {
@@ -1022,7 +1022,7 @@ Pricing
 }
 
 .style-1 .pname {
-  border-color: #ff007a;
+  border-color: #4125dd;
 }
 
 .style-2 .pname {
@@ -1218,7 +1218,7 @@ Countdown
 }
 
 .syotimer-cell_type_day .syotimer-cell__value {
-  color: #ff007a;
+  color: #4125dd;
 }
 
 /*-------------------------------
@@ -1329,13 +1329,21 @@ Blog
 }
 
 .social-links li a:hover {
-  background: #ff007a;
+  background: #4125dd;
   color: #ffffff;
 }
 
 /*-------------------------------
 footer
 -------------------------------*/
+
+.custom-footer
+{
+  background-color: #000;
+  color:white;
+  
+
+}
 .footer {
   /* background: url("../images/bg/footer-bg.jpg") no-repeat; */
   background-color: #000;
