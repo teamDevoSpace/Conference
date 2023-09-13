@@ -413,7 +413,7 @@ header
 banner
 -------------------------------*/
 .section-banner {
-  min-height: 700px;
+  min-height: 550px;
   position: relative;
   background: #eee;
   background-repeat: no-repeat;
